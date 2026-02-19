@@ -1,0 +1,7 @@
+requirements:
+
+1) pandas
+2) matplotlib
+3) scikit-learn
+4) numpy
+5) jupyter
